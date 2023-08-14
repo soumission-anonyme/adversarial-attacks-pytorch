@@ -1,0 +1,30 @@
+__pycache__
+*/__pycache__
+*/*/__pycache__
+.ipynb_checkpoints/*
+debug.log
+
+build/*
+_build
+dist/*
+torchattacks.egg-info/*
+data/*
+models/*
+*/.*
+MENIFEST.in
+setup.cfg
+_commit.bat
+
+autoattack/*
+
+demo/_*
+demo/data/*
+demo/models/*
+<<<<<<< HEAD
+=======
+demo/torchdefenses/*
+>>>>>>> c4da6a95546283992a3d1816ae76a0cd4dfc2d8b
+TODO.txt
+.vscode/
+coverage.xml
+.coverage
